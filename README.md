@@ -1,6 +1,6 @@
 # Notes for AWS Certified Solutions Architect Associate
 
-I recently got the AWS solutions architect associate certificate in JUL 2020, and wanted to share my notes with anyone who might benefit from it. 
+I recently got the AWS solutions architect associate certificate in JUL 2021, and wanted to share my notes which might help . 
 
 
 ## Contents
