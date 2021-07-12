@@ -1086,8 +1086,9 @@ __Third party SSL cert__ can be imported into —
 - AWS Certificate Manager
 - IAM Certificate Store
 
+**
+Important comparisons:**
 
-Important comparisons:
-Comparing Redis and Memcached
+**Comparing Redis and Memcached**
 ![image](https://user-images.githubusercontent.com/7611203/125347528-e02d1e80-e30f-11eb-82e8-2dd5192b80e1.png)
 
