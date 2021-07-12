@@ -26,6 +26,7 @@ I recently got the AWS solutions architect associate certificate in JUL 2021, an
 - [Kinesis](#kinesis)
 - [EMR](#emr)
 - [Misc](#misc)
+- [comparisons](#comparisions)
 
 
 
